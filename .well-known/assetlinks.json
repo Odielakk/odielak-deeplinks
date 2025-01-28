@@ -5,19 +5,7 @@
 		],
 		"target":{
 			"namespace":"android_app",
-			"package_name":"com.example.odielak.development",
-			"sha256_cert_fingerprints":[
-				"EF:44:90:6B:2F:A8:AC:EA:FF:D5:46:90:03:1B:72:BF:A5:9B:D4:F0:1F:40:B7:BE:99:B5:10:F6:B1:C6:06:7A"
-			]
-		}
-	},
-	{
-		"relation":[
-			"delegate_permission/common.handle_all_urls"
-		],
-		"target":{
-			"namespace":"android_app",
-			"package_name":"com.example.odielak",
+			"package_name":"com.odielak.app",
 			"sha256_cert_fingerprints":[
 				"EF:44:90:6B:2F:A8:AC:EA:FF:D5:46:90:03:1B:72:BF:A5:9B:D4:F0:1F:40:B7:BE:99:B5:10:F6:B1:C6:06:7A"
 			]
